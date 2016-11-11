@@ -37,3 +37,6 @@ https://discussions.udacity.com/t/unsure-how-to-select-the-icon-list/166805
 
 Other:
 https://api.jquery.com/hasclass/
+
+Review of forEach: 
+https://www.youtube.com/watch?v=-_iHfhSy0lg
