@@ -15,9 +15,10 @@ Create test suites using Jasmine for a web-based application that reads RSS feed
 ## Files included
 
 Index(**./index.html**), 
-CSS (**./css/style.css**),
-JavaScript (**./js/app.js**),
-Jasmine Specs **./jasmine/spec/feedreader.js** 
+CSS (**./css/style.css**), including iconmoon and normalize,
+Fonts (**./fonts/iconmoon...**),
+JavaScript (**./js/app.js**), and 
+Jasmine Specs (**./jasmine/spec/feedreader.js**) 
 
 # How to run this project?
 
