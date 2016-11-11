@@ -85,7 +85,7 @@ $(function() {
 		//      * Remember, loadFeed() is asynchronous so this test will require
 		//      * the use of Jasmine's beforeEach and asynchronous done() function.
 		//      * Resources for this section:
-        //      * https://volaresystems.com/blog/post/2014/12/09/Testing-async-calls-with-Jasmine
+		//      * https://volaresystems.com/blog/post/2014/12/09/Testing-async-calls-with-Jasmine
 		//      * https://discussions.udacity.com/t/step-13-help-initial-entries/14839/13 
 		//      * Make an async call, passing the special done callback. */
 		beforeEach(function(done) { //loadFeed() is asynchronous, so have to use a beforeEach
