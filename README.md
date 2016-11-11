@@ -10,10 +10,9 @@ Create test suites using Jasmine for a web-based application that reads RSS feed
 4) Using **matchers** to compare actual values and expected values.
 5) Understianing and utilizing DOM and CSS elements to serve as hooks for the testing environment.
 
-
-
 ## Files included
 
+The basic files, not including the test suites in the feedreader.js, were all provided by Udacity for the Font-end class "FeedReader"
 Index(**./index.html**), 
 CSS (**./css/style.css**), including iconmoon and normalize,
 Fonts (**./fonts/iconmoon...**),
