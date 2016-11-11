@@ -2,7 +2,7 @@
 
 Create test suites using Jasmine for a web-based application that reads RSS feeds. This is part of a "test-driven development" approach.
 
-## What will I learned
+## What I learned
 
 1) How to set up and run basic unit test.
 2) How to configure test using Jasmine 2.0.0 (https://jasmine.github.io/1.3/introduction.html).
