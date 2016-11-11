@@ -19,7 +19,7 @@ Fonts (**./fonts/iconmoon...**),
 JavaScript (**./js/app.js**), and 
 Jasmine Specs (**./jasmine/spec/feedreader.js**) 
 
-# How to run this project?
+# How to run this project
 
 1) Download the testfeeder files to your local computer.
 2) Open index.html on a server of choice.
