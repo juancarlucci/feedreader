@@ -24,3 +24,16 @@ Jasmine Specs (**./jasmine/spec/feedreader.js**)
 1) Download the testfeeder files to your local computer.
 2) Open index.html on a server of choice.
 3) Marvel at the intrepid abilities of this little feedreader testing environment!
+
+Resources and helpful comments that made this project possible:
+Jasmine:
+https://jasmine.github.io/1.3/introduction.html?spec=Included%20matchers%3A
+
+Forum: Especially JohnMav, Udayan, mcs, Karol, and the students who asked awesome questions
+https://discussions.udacity.com/t/new-feed-selection-question/16274/7
+https://discussions.udacity.com/t/finished-project/195129
+https://discussions.udacity.com/t/step-13-help-initial-entries/14839
+https://discussions.udacity.com/t/unsure-how-to-select-the-icon-list/166805
+
+Other:
+https://api.jquery.com/hasclass/
